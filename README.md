@@ -1,4 +1,4 @@
-# 🗺️ MapKit — SwiftUI Interactive Locations App
+# 🗺️ MapApp — SwiftUI Interactive Locations App
 
 <p align="center">
   <a href="https://juanperort.dev">
@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Architecture-MVVM-green.svg" alt="MVVM" />
 </p>
 
-**MapKit** is an interactive iOS application built with **SwiftUI** and **MapKit**, designed to explore iconic locations around the world through a clean, map-first user experience.  
+**MapApp** is an interactive iOS application built with **SwiftUI** and **MapKit**, designed to explore iconic locations around the world through a clean, map-first user experience.  
 The project focuses on custom annotations, map-driven navigation, detail presentations, and a lightweight MVVM structure for clear separation between UI state and view logic.
 
 > 🚀 Explore this and other projects in my portfolio: **[juanperort.dev](https://juanperort.dev)**
